@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+        "target": "https://www.linkedin.com/",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
